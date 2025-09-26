@@ -2,6 +2,8 @@
 
 This Docker container simulates a Red Hat practice lab environment with fake `lab` commands that mimic the behavior of actual Red Hat training lab systems.
 
+## NOTE: The readme is AI generated. Sorry, not worth the effort for this one.
+
 ## What This Container Provides
 
 - **Red Hat UBI 9** base system
